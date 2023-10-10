@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LivroDeReceitas.Ports.API.props" />
+</Project>

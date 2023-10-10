@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LivroDeReceitas.Core.Domain\LivroDeReceitas.Core.Domain.csproj" />
+    <ProjectReference Include="..\LivroDeReceitas.Core.Shared\LivroDeReceitas.Core.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

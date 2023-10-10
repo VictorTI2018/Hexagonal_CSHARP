@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "thU0UPIVsdoED8yI+lVbjR1KNWR4yqPBwfLjDfGTsM83erQd44jAV0y3m4N1v5giXEbY8yzTm2uZFvw2gpJZrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Silva\\OneDrive - Verity\\Documentos\\Victor\\Estudos\\LivroDeReceitas\\LivroDeReceitas\\core\\LivroDeReceitas.Core.Domain\\LivroDeReceitas.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Silva\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nuget.ecs.com.br/api/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
